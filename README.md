@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Marc
-- 🌱 I’m currently learning Lua for FiveM and want to learn PHP
-- 📫 Contact me on Discord: 𝓜𝓪𝓻𝓬#0001
+
